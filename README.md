@@ -69,7 +69,7 @@ The full URL probed has this shape:
 ## Installation
 
 ```bash
-git clone https://github.com/<you>/osticket-guess.git
+git clone https://github.com/SirReddington/osticket-guess.git
 cd osticket-guess
 pip install -r requirements.txt
 chmod +x osticket_guess.py
