@@ -137,7 +137,7 @@ Or run with no arguments and the tool will prompt you interactively, matching th
 
 ## Examples
 
-### 1. The typical OSCP-style osTicket box
+### 1. The typical osTicket box
 
 You uploaded `reverse.php`, captured the download URL `http://10.10.10.10/file.php?key=f56winwhkb4hifb2onz6scaoqfctupli&...`, and you've computed the correctly-cased signature locally:
 
